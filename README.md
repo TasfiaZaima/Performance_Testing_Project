@@ -1,12 +1,5 @@
-# Performance_Testing_Project
 # Performance Testing - Booking Website with JMeter
-
-#
-
----
-
-## 📖 Introduction
-In this project, I conducted performance testing on the [Restful Booker](https://restful-booker.herokuapp.com) website using **Apache JMeter**. The goal was to assess the performance and reliability of its API endpoints under simulated load conditions.
+In this project, I conducted performance testing on the testing website using **Apache JMeter**. The goal was to assess the performance and reliability of its API endpoints under simulated load conditions.
 
 # Testing Site
 **Website:** [https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com)
@@ -109,8 +102,7 @@ The HTML reports will be available inside the `report/` directory.
 
 ### 2. Result Reports
 
-| Screenshot | Description |
-| :--- | :--- |
+- ![B](Result Tree.png)
 | ![](./Result%20Tree.png) | View Results Tree |
 | ![](./Summary%20Report.png) | Summary Report |
 | ![](./Aggregate%20Report.png) | Aggregate Report |
