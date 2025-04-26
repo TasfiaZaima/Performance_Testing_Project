@@ -100,7 +100,7 @@ The HTML reports will be available inside the `report/` directory.
 ### 2. Non-GUI Mode Reports
 ![](./Result%20Tree.png) | View Results Tree |
 ![](./Summary%20Report.png) | Summary Report |
-![](./Aggregate%20Report.png) | Aggregate Report |
+![](./Aggregrate%20Report.png) | Aggregate Report |
 
 ---
 
