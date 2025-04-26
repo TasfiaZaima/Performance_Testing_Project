@@ -90,19 +90,14 @@ The HTML reports will be available inside the `report/` directory.
 
 ## 📷 Screenshots
 
-### 1. Create Booking - JMeter Configuration
-
-| Screenshot | Description |
-| :--- | :--- |
-| ![](./jmeter1.png) | Create Booking Request Setup |
-| ![](./jmeter2.png) | HTTP Header Manager Setup |
-| ![](./jmeter3.png) | HTTP Request Defaults Setup |
+### 1. JMeter Report
+| ![](./jmeter1.png) | Test and Report Configuration |
+| ![](./jmeter2.png) | Statistics |
+| ![](./jmeter3.png) | Errors |
 
 ---
 
-### 2. Result Reports
-
-- ![B](Result Tree.png)
+### 2. Non-GUI Mode Reports
 | ![](./Result%20Tree.png) | View Results Tree |
 | ![](./Summary%20Report.png) | Summary Report |
 | ![](./Aggregate%20Report.png) | Aggregate Report |
